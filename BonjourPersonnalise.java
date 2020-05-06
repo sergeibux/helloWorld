@@ -1,14 +1,14 @@
+import java.util.Scanner;
 /**
+ * This is an usefull app
  * @author Merliere Vanhoeke Sébastien
  */
 
-import java.util.Scanner;
-
-/*
+public class BonjourPersonnalise{
+/**
  * We know what it does :)
- * yes ! we know :D
+ * <br>oh yes ! we know :D
  */
-class BonjourPersonnalise{
 	public static void main(String[] args){
 		System.out.println("Hi ! ");
 		String strName = "";
